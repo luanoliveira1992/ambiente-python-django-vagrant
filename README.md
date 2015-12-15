@@ -1,13 +1,13 @@
 # Ambiente Python Django Vagrant
-### Resumo:
-    #####Este é um ambiente para desenvolvedores do framework web Django.
-    #####Fique livre para torna-lo mais completo
+### Resumo
+    Este é um ambiente para desenvolvedores do framework web Django.
+    Fique livre para torna-lo mais completo
 
-### Dependências:
+### Dependências
     [Vagrant] (https://www.vagrantup.com/downloads.html)
     [Puppet] (https://puppetlabs.com/)
 
-#### Pacotes:
+#### Pacotes
                *MYSQL:
                     *Usuário root
                     *Não possui senha
